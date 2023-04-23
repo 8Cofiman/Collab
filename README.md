@@ -1,3 +1,3 @@
-# ![logo collab](/JPG/logo.svg) Web-site
-
+# Web-site Collab
+![logo collab](/JPG/logo.svg)
 ### A website built with pure HTML and CSS.
