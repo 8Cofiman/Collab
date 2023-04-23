@@ -1,4 +1,4 @@
 # Web-site Collab
-![logo collab](/IMG/logo.svg)
+![logo collab](/JPG/logo.svg)
 
 ### A website built with pure HTML and CSS.
